@@ -40,7 +40,6 @@ public class LandingPageTest extends base{
 		boolean visibilityofNavigationBar=homepage.navigationbar().isDisplayed();
 		Assert.assertTrue(visibilityofNavigationBar);
 		log.info("Navigation bar was displayed");
-		System.out.println("These are the git changes made 2");
 	}
 	
 	@Test
@@ -49,7 +48,6 @@ public class LandingPageTest extends base{
 		boolean visibilityofNavigationBar=homepage.navigationbar().isDisplayed();
 		Assert.assertFalse(visibilityofNavigationBar);
 		log.info("Testcase Failed on purpose");
-		System.out.println("These are the git changes made 3");
 	}
 	
 	@AfterTest
