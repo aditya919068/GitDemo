@@ -52,6 +52,7 @@ public Object[][] getdata(){
 		loginpage.getpassword().sendKeys(Password);
 		loginpage.submitbutton().click();
 		log.info("UserName and password was submitted");
+		System.out.println("These are the git changes made 1");
 	}
 
 	@AfterTest
