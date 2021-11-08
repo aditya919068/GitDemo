@@ -1,0 +1,7 @@
+23:32:07.038 [TestNG-tests-2] INFO  framework.LandingPageTest - Driver terminated
+23:32:19.884 [TestNG-tests-1] INFO  framework.HomePage - Login got clicked
+23:32:20.277 [TestNG-tests-1] INFO  framework.HomePage - UserName and password was submitted
+23:32:22.577 [TestNG-tests-1] INFO  framework.HomePage - URL got launched
+23:32:24.362 [TestNG-tests-1] INFO  framework.HomePage - Login got clicked
+23:32:24.794 [TestNG-tests-1] INFO  framework.HomePage - UserName and password was submitted
+23:32:24.855 [TestNG-tests-1] INFO  framework.HomePage - Driver Terminated

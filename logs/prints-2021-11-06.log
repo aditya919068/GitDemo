@@ -1,0 +1,6 @@
+23:31:56.448 [TestNG-tests-1] INFO  framework.HomePage - Driver was initialized
+23:31:57.164 [TestNG-tests-2] INFO  framework.LandingPageTest - Driver was initialized
+23:32:06.407 [TestNG-tests-1] INFO  framework.HomePage - URL got launched
+23:32:06.408 [TestNG-tests-2] INFO  framework.LandingPageTest - URL got established
+23:32:06.916 [TestNG-tests-2] INFO  framework.LandingPageTest - Navigation bar was displayed
+23:32:06.968 [TestNG-tests-2] INFO  framework.LandingPageTest - Text Matched
